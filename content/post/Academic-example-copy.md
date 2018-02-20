@@ -44,7 +44,15 @@ image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/t
 caption = "1950s"
 +++
 
-\[ x^n + y^n = z^n \]
+You can write LaTeX math like below.
+\$ x^n + y^n = z^n \$
+$$ x^n + y^n = z^n $$
+
+$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$
+
+\$ \alpha \$ makes $ \alpha $ character.
+I can write $\alpha$
+
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes. Then head on over to the [Quick Start guide](https://sourcethemes.com/academic/docs/) or take a look at the [Release Notes](https://sourcethemes.com/academic/updates/).
 
