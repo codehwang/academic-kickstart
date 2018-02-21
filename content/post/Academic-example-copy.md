@@ -50,13 +50,7 @@ $$ x^n + y^n = z^n $$
 
 $$\begin{pmatrix}a & b\\\ c & d\end{pmatrix}$$
 
-$$
- \begin{matrix}
-  a & b & c \\
-  d & e & f \\
-  g & h & i
- \end{matrix}
-$$
+$$ \begin{matrix}  a & b & c \\\  d & e & f \\\  g & h & i \end{matrix} $$
 
 $$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$
 
