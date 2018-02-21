@@ -48,6 +48,8 @@ You can write LaTeX math like below.
 \$ x^n + y^n = z^n \$
 $$ x^n + y^n = z^n $$
 
+$$\begin{pmatrix}a & b\\\ c & d\end{pmatrix}$$
+
 $$
  \begin{matrix}
   a & b & c \\
