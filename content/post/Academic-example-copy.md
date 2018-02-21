@@ -75,10 +75,11 @@ table test
 | ------------- |-------------| ---------| ------------- |
 | Span Across ||||
 
-Name    | Age
---------|------
-Bob     | 27
-Alice   | 23
+Name    | Age  | etc
+--------|------|------
+Bob     | 27   | hi
+Alice   | 23   | hello
+Charles | span
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes. Then head on over to the [Quick Start guide](https://sourcethemes.com/academic/docs/) or take a look at the [Release Notes](https://sourcethemes.com/academic/updates/).
 
