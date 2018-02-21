@@ -89,17 +89,6 @@ table test
 |nice | aaa  fdafa fajfda fa fda ajsfjafsd;fa fda fas fas  ||
 
 $$
-\documentclass{article}
-\usepackage[utf8]{inputenc}
-\usepackage[table]{xcolor}
- 
-\setlength{\arrayrulewidth}{1mm}
-\setlength{\tabcolsep}{18pt}
-\renewcommand{\arraystretch}{2.5}
- 
-\newcolumntype{s}{>{\columncolor[HTML]{AAACED}} p{3cm}}
- 
-\arrayrulecolor[HTML]{DB5800}
  
 \begin{tabular}{ |s|p{3cm}|p{3cm}|  }
 \hline
