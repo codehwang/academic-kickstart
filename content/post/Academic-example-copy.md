@@ -48,6 +48,14 @@ You can write LaTeX math like below.
 \$ x^n + y^n = z^n \$
 $$ x^n + y^n = z^n $$
 
+$$
+ \begin{matrix}
+  a & b & c \\
+  d & e & f \\
+  g & h & i
+ \end{matrix}
+$$
+
 $$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$
 
 \$ \alpha \$ makes $ \alpha $ character.
