@@ -88,6 +88,37 @@ table test
 |Alice   | 23   | hello|
 |nice | aaa  fdafa fajfda fa fda ajsfjafsd;fa fda fas fas  ||
 
+$$
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[table]{xcolor}
+ 
+\setlength{\arrayrulewidth}{1mm}
+\setlength{\tabcolsep}{18pt}
+\renewcommand{\arraystretch}{2.5}
+ 
+\newcolumntype{s}{>{\columncolor[HTML]{AAACED}} p{3cm}}
+ 
+\arrayrulecolor[HTML]{DB5800}
+ 
+\begin{tabular}{ |s|p{3cm}|p{3cm}|  }
+\hline
+\rowcolor{lightgray} \multicolumn{3}{|c|}{Country List} \\
+\hline
+Country Name    or Area Name& ISO ALPHA 2 Code &ISO ALPHA 3 \\
+\hline
+Afghanistan & AF &AFG \\
+\rowcolor{gray}
+Aland Islands & AX & ALA \\
+Albania   &AL & ALB \\
+Algeria  &DZ & DZA \\
+American Samoa & AS & ASM \\
+Andorra & AD & \cellcolor[HTML]{AA0044} AND    \\
+Angola & AO & AGO \\
+\hline
+\end{tabular}
+$$
+
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes. Then head on over to the [Quick Start guide](https://sourcethemes.com/academic/docs/) or take a look at the [Release Notes](https://sourcethemes.com/academic/updates/).
 
 [![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
