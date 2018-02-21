@@ -88,9 +88,7 @@ table test
 |Alice   | 23   | hello|
 |nice | aaa  fdafa fajfda fa fda ajsfjafsd;fa fda fas fas  ||
 
-$$
- 
-\begin{tabular}{ |s|p{3cm}|p{3cm}|  }
+$$ \begin{tabular}{ |s|p{3cm}|p{3cm}|  }
 \hline
 \rowcolor{lightgray} \multicolumn{3}{|c|}{Country List} \\
 \hline
