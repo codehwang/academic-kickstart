@@ -87,6 +87,16 @@ table test
 |Bob     | 27   | hi|
 |Alice   | 23   | hello|
 |nice | aaa  fdafa fajfda fa fda ajsfjafsd;fa fda fas fas  ||
+$$ \begin{table}
+\begin{tabular}{|r|r|}
+1 & 1 \\
+2 & 2 \\
+3 & 3 \\
+4 & 4 \\
+5 & 5 \\
+\end{tabular}
+\end{table}
+$$
 
 $$ \begin{tabular}{ |s|p{3cm}|p{3cm}|  }
 \hline
